@@ -1,9 +1,0 @@
-npm ERR! code ENOENT
-npm ERR! syscall open
-npm ERR! path /workspaces/Favytechacademy.com/package.json
-npm ERR! errno -2
-npm ERR! enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/workspaces/Favytechacademy.com/package.json'
-npm ERR! enoent This is related to npm not being able to find a file.
-npm ERR! enoent 
-
-npm ERR! A complete log of this run can be found in: /home/codespace/.npm/_logs/2025-10-10T16_10_56_069Z-debug-0.log
